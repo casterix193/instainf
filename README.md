@@ -15,13 +15,12 @@ Get your instagram session id by going to your web browser and accessing your in
 git clone https://github.com/casterix193/instainf.git
 cd instainf/
 sudo python3 setup.py install
-instainf -h
 ```
 
 ## Usage:
-(To get information only) ``` insatinf -u username -s instagramsessionid ```
+(To get information only) ``` toutatis -u username -s instagramsessionid ```
 
-(To get information directly in a textfile) ``` insatinf -u username -s instagramsessionid > filename.txt ```
+(To get information directly in a textfile) ``` toutatis -u username -s instagramsessionid > filename.txt ```
 
 ## Example
 ```
