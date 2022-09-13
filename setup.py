@@ -11,10 +11,10 @@ setup(
     description="A tool to get all probable informtation from a user's instagram account",
     long_description="It is a tool written to retrieve private information such as User ID, Bio, Phone Number, Mail Address from Instagram accounts via API.",
     include_package_data=True,
-    url='http://github.com/casterix193',
+    url='http://github.com/casterix193/instainf',
     entry_points = {'console_scripts': ['instainf = instainf.core:main']},
     classifiers=[
         "Programming Language :: Python",
-        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+        "License :: MIT License",
     ],
 )
