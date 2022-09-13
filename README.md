@@ -1,4 +1,4 @@
-# instainf
+# Instainf
 
 Instainf is a tool to get informaion from a user's instagram like Userid, Phone number, Email id, Bio, etc
 Support on Patreon : https://www.patreon.com/casterix
