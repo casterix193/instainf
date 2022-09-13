@@ -1,11 +1,15 @@
 # instainf
+
 Instainf is a tool to get informaion from a user's instagram like Userid, Phone number, Email id, Bio, etc
 Support on Patreon : https://www.patreon.com/casterix
 
 #Prerequisite
+
 Python 3
 [IMPORTANT] Get your instagram session id by going to your web browser and accessing your instagram and press Ctrl+Shift+I, it'll open the developer options then you can navigate to application tab from above and see cookies from their click the link below and you can see your session id which you need to copy and paste in the final step where it's asking for a sessionid. (Your instagram needs to be open on the page so the session id can work in the script.)
+
 #Installation
+
 With PyPI
 pip install instainf
 
@@ -15,10 +19,12 @@ cd insatinf/
 python3 setup.py install
 
 #Usage:
+
 (To get information only) insatinf -u username -s instagramsessionid
 (To get information directly in a textfile) insatinf -u username -s instagramsessionid > filename.txt
 
 #Example
+
 Informations about     : xxxusernamexxx
 Full Name              : xxxusernamesxx | userID : 123456789
 Verified               : False | Is buisness Account : False
