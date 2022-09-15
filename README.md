@@ -18,9 +18,9 @@ sudo python3 setup.py install
 ```
 
 ## Usage:
-(To get information only) ``` toutatis -u username -s instagramsessionid ```
+(To get information only) ``` instainf -u username -s instagramsessionid ```
 
-(To get information directly in a textfile) ``` toutatis -u username -s instagramsessionid > filename.txt/.csv ```
+(To get information directly in a textfile) ``` instainf -u username -s instagramsessionid > filename.txt/.csv ```
 
 ## Example
 ```
