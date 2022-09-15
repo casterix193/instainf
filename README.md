@@ -1,7 +1,7 @@
 # Instainf
 
 Instainf is a tool to get informaion from a user's instagram like Userid, Phone number, Email id, Bio, etc
-Support on Patreon : https://www.patreon.com/casterix
+
 
 ## Prerequisite
 [Python for Linux](https://www.geeksforgeeks.org/how-to-install-python-on-linux/)
@@ -20,7 +20,7 @@ sudo python3 setup.py install
 ## Usage:
 (To get information only) ``` toutatis -u username -s instagramsessionid ```
 
-(To get information directly in a textfile) ``` toutatis -u username -s instagramsessionid > filename.txt ```
+(To get information directly in a textfile) ``` toutatis -u username -s instagramsessionid > filename.txt/.csv ```
 
 ## Example
 ```
